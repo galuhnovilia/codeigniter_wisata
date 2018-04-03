@@ -1,9 +1,9 @@
-# CodeIgniter 2
-Open Source PHP Framework (originally from EllisLab)
+# Information
 
-For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
+This project uses codeigniter framework, with a mysql database. The usefulness of this project is showing a side of the city of cilacap tourism which will be shown at apk. 
+
+For more details source code android, see the project at android_wisata   
 (also available within the download package for offline use)
 
-**WARNING:** *CodeIgniter 2.x is no longer under development and only receives security patches until October 31st, 2015.
-Please update your installation to the latest CodeIgniter 3.x version available
-(upgrade instructions [here](http://www.codeigniter.com/userguide3/installation/upgrade_300.html)).*
+** Thank You** 
+
